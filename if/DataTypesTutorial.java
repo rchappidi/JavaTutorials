@@ -4,8 +4,6 @@ class DataTypesTutorial{
 	
     static  char gender;
 	
-
-	
 	public static void main(String[] args){
 	  
 	  age = Integer.parseInt(args[0]);
